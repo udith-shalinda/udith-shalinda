@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 ### Github Activity ✔:
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udith-shalinda&theme=tokyonight" />
-  </a>
 
-<a>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=udith-shalinda&show_icons=true&theme=tokyonight&line_height=27" alt="Udith's github stats"/>
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udith-shalinda&theme=tokyonight" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=udith-shalinda&show_icons=true&theme=tokyonight&line_height=27" alt="Udith's github stats"/>
